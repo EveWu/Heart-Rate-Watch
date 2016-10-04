@@ -1,1 +1,1 @@
-# PPG-Project
+# Heart Rate Watch Project
