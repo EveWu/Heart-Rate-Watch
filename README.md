@@ -1,1 +1,1 @@
-# Heart Rate Watch Project
+# Heart Rate Watch
